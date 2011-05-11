@@ -1,4 +1,5 @@
-if defined?(Typhoeus)
+#if defined?(Typhoeus)
+if false
 
   ::Typhoeus::Hydra.allow_net_connect = true
 
